@@ -38,6 +38,7 @@ body {
     padding: 0px 5px;
     background-color: #1F2937;
     color: white;
+    text-align: center;
     
 }
 
@@ -64,7 +65,7 @@ body {
     
 }
 
-#passwords > button{
+#passwords > p{
     background-color: #273549;
     border-radius: 4px;
     padding: 8px 6px;
@@ -74,8 +75,10 @@ body {
     color: #10B981;
     width: 180px;
     border: none;
+    text-align: center;
 }
 
 #pass1 , #pass2 {
     display: none;
+    border: 2px solid #2F3E53;
 }
